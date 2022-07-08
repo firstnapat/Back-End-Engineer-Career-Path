@@ -1,6 +1,6 @@
 # Back-End-Engineer-Career-Path
 
-## Helpful Resources
+<h3> Helpful Resources </h3>
 In order to successfully take part in your learning journey, we’ve provided you with a set of resources.
 
 Congratulations on enrolling in the Back-End Engineer Path. We’re excited that you’re here. To help you during your learning journey, we’re sharing with you a set of resources. These resources include popular developer resources on the web, as well as recommended, optional books that can be used to supplement our Codecademy content.
@@ -8,12 +8,13 @@ Congratulations on enrolling in the Back-End Engineer Path. We’re excited that
 Popular Developer Resources
 As you go through the path, we’ll suggest certain resources for you to use, like articles, videos, tutorials, and documentation. Here are some additional resources that are considered groundbreaking, significant, or classics in the industry and will help you throughout your Path:
 
-*  MDN Web Docs
+* MDN Web Docs
 * W3
 * DEV Community
 * Stack Overflow
 * Can I use
 * Repl.it
+* 
 Go ahead and bookmark these resources—you won’t need them now, but they’ll be useful to reference and use as you go through the Path.
 
 Recommended Books
